@@ -1,0 +1,50 @@
+[
+  {
+    "name": "chicago",
+    "id": "b3cbf0fb-f599-4bce-a641-9fe986718a94"
+  },
+  {
+    "name": "houston",
+    "id": "29da58d2-fa84-490f-ac08-d6ac03d6c7ef"
+  },
+  {
+    "name": "california",
+    "id": "cd29bdd4-3a5d-4e90-a08d-c17273bae9f8"
+  },
+  {
+    "name": "san antonio",
+    "id": "9d29acba-34eb-46c6-8b31-3c22b861e3be"
+  },
+  {
+    "name": "Los angeles",
+    "id": "a9262806-025b-4548-8f70-f698784de466"
+  },
+  {
+    "name": "tulum",
+    "id": "44313405-bb23-418d-b561-652019c1debf"
+  },
+  {
+    "name": "colorado",
+    "id": "30735ac0-0747-4b4e-99b2-f230e68d243d"
+  },
+  {
+    "name": "paris",
+    "id": "0d14b19d-8f32-4d4a-b0fb-e5be28f84bb2"
+  },
+  {
+    "name": "aguascalientes",
+    "id": "416b85d4-aaee-4a9b-a60d-05df03332a01"
+  },
+  {
+    "name": "tokio",
+    "id": "97ecb5fc-bfeb-45f6-b7d7-e22449644b89"
+  },
+  {
+    "name": "medellin",
+    "id": "d7fb216e-5357-48dd-aee5-b7e0fa41216d"
+  },
+  {
+    "name": "cancun",
+    "id": "b8237433-c014-4e73-a5c6-130acb4a2196"
+  }
+]
